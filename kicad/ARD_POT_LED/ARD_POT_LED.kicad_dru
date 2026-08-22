@@ -1,0 +1,8 @@
+(version 1)
+
+(rule "largeur_gnd"
+   (condition "A.NetClass == 'GND'")
+   (constraint track_width (min 0.80mm)))
+
+(rule "isolement_general"
+   (constraint clearance (min 0.30mm)))

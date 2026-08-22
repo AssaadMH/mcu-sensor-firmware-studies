@@ -1,0 +1,15 @@
+NETLIST TP2TRANS - extrait du .pdsprj (decodage binaire, sans Proteus)
+
+composants 20   fils 46   broches 41   nets 8
+terminaux 7 -> 1 nets nommes (0 hors fil, 0 sans nom)   amperemetres court-circuites 4
+
+============================================================
+
+NET 1              (10)  $IAC?13-2  $IAC?15-1  $IAC?15-2  $IAC?17-2  $IAC?20-1  $IAC?20-2  C1-2  Q1-2  R1-2  R2-2
+NET 2   GND        ( 8)  $IAC?17-1  $IAC?18-1  ALTE?10-2  C2-2  R2-1  RE-1  RL-1  V1-1
+NET 3              ( 6)  $IDC?14-1  $IDC?14-2  $IDC?16-2  C3-1  Q1-3  RC-2
+NET 4              ( 5)  $IAC?13-1  $IDC?16-1  C2-1  Q1-1  RE-2
+NET 5              ( 5)  $IAC?18-2  $IAC?19-1  $IAC?19-2  C3-2  RL-2
+NET 6              ( 3)  R1-1  RC-1  V1-2
+NET 7              ( 2)  0.2-1  ALTE?10-1
+NET 8              ( 2)  0.2-2  C1-1

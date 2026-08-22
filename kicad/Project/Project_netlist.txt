@@ -1,0 +1,14 @@
+NETLIST Project - extrait du .pdsprj (decodage binaire, sans Proteus)
+
+composants 8   fils 19   broches 19   nets 7
+terminaux 1 -> 1 nets nommes (0 hors fil, 0 sans nom)   amperemetres court-circuites 0
+
+============================================================
+
+NET 1              ( 4)  $IOS?1-1  L1-1  R1-1  U1-2
+NET 2              ( 4)  $IOS?1-4  C1-1  D1-A  RV1-1
+NET 3              ( 3)  $IOS?1-2  ALTE?2-1  L1-2
+NET 4              ( 3)  ALTE?2-2  C1-2  U1-1
+NET 5              ( 2)  R1-2  RV1-2
+NET 6              ( 2)  D1-K  U1-3
+NET 7   GND        ( 1)  RV1-3

@@ -1,0 +1,6 @@
+*-backups/
+*.kicad_prl
+fp-info-cache
+*.net
+*.bak
+*.kicad_pcb-bak

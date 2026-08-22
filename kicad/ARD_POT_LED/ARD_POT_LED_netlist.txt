@@ -1,0 +1,11 @@
+NETLIST ARD_POT_LED - extrait du .pdsprj (decodage binaire, sans Proteus)
+
+composants 3   fils 6   broches 9   nets 4
+terminaux 0 -> 0 nets nommes (0 hors fil, 0 sans nom)   amperemetres court-circuites 0
+
+============================================================
+
+NET 1              ( 3)  L1-2  RV1-1  U1-56
+NET 2              ( 2)  L1-1  U1-3
+NET 3              ( 2)  RV1-3  U1-A0
+NET 4              ( 2)  RV1-2  U1-55

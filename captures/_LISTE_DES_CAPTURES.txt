@@ -1,0 +1,72 @@
+LISTE DES CAPTURES A EXPORTER
+======================================================================
+
+Dossier de destination :
+   C:\Users\HP\Desktop\02 - ROBOTICS\PROTEUS_RAPPORT\captures
+
+Dans Proteus, pour chaque projet :
+  - Schema  : module Schematic Capture -> File -> Export Graphics -> Export Bitmap
+  - PCB     : module PCB Layout        -> Output -> Export Graphics -> Export Bitmap
+  - Format PNG, cocher 'Colour' et laisser la resolution par defaut.
+
+Le nom du fichier doit etre EXACTEMENT celui de la colonne 'Nom du PNG'.
+
+----------------------------------------------------------------------
+PROJET                             NOM DU PNG                    
+----------------------------------------------------------------------
+FINAL Project                      FINAL Project.png             
+   (idem, vue PCB)                 FINAL Project_pcb.png         
+Project                            Project.png                   
+   (idem, vue PCB)                 Project_pcb.png               
+TACHYM                             TACHYM.png                    
+   (idem, vue PCB)                 TACHYM_pcb.png                
+TACHYM                             TACHYM.png                    
+   (idem, vue PCB)                 TACHYM_pcb.png                
+ipeig assaad                       ipeig assaad.png              
+   (idem, vue PCB)                 ipeig assaad_pcb.png          
+ipeig assaad (1)                   ipeig assaad (1).png          
+   (idem, vue PCB)                 ipeig assaad (1)_pcb.png      
+ipeig assaad (2)                   ipeig assaad (2).png          
+   (idem, vue PCB)                 ipeig assaad (2)_pcb.png      
+c                                  c.png                         
+   (idem, vue PCB)                 c_pcb.png                     
+TACHYMETRE                         TACHYMETRE.png                
+VARIATEUR DE PUISSACE 0 A 10V      VARIATEUR DE PUISSACE 0 A 10V.png
+TRANSISTOR                         TRANSISTOR.png                
+montage                            montage.png                   
+d (1)                              d (1).png                     
+BLDC                               BLDC.png                      
+GRADATEUR AVEC DE CAP              GRADATEUR AVEC DE CAP.png     
+GRADATEUR DE PUISSANCE             GRADATEUR DE PUISSANCE.png    
+TP2TRANS                           TP2TRANS.png                  
+TP2TRANS                           TP2TRANS.png                  
+BRUSHLESS                          BRUSHLESS.png                 
+New Project                        New Project.png               
+ARD POT LED                        ARD POT LED.png               
+TP3EA                              TP3EA.png                     
+----------------------------------------------------------------------
+TOTAL : 30 images (22 schemas + 8 PCB)
+
+Les fichiers sont ouvrables directement depuis :
+   C:\Users\HP\Documents\FINAL Project.pdsprj
+   C:\Users\HP\Documents\Project.pdsprj
+   C:\Users\HP\Documents\TACHYM.pdsprj
+   C:\Users\HP\Desktop\06 - SOFTWARE\STUDY LOGICIEL\TACHYMETRE\TACHYM.pdsprj
+   D:\VID\VID\telecharger\ipeig assaad.pdsprj
+   D:\VID\VID\telecharger\ipeig assaad (1).pdsprj
+   D:\VID\VID\telecharger\ipeig assaad (2).pdsprj
+   C:\Users\HP\Documents\c.pdsprj
+   C:\Users\HP\Documents\TACHYMETRE.pdsprj
+   C:\Users\HP\Documents\VARIATEUR DE PUISSACE 0 A 10V.pdsprj
+   C:\Users\HP\Documents\TRANSISTOR.pdsprj
+   D:\STUDY\montage.pdsprj
+   D:\TELECHARGEMENT2025\d (1).pdsprj
+   C:\Users\HP\Desktop\02 - ROBOTICS\ALLIANCE\DES PROJETS&TEST\BLDC\BLDC.pdsprj
+   C:\Users\HP\Documents\GRADATEUR AVEC DE CAP.pdsprj
+   C:\Users\HP\Documents\GRADATEUR DE PUISSANCE.pdsprj
+   C:\Users\HP\Documents\TP2TRANS.pdsprj
+   D:\TELECHARGEMENT2025\TP2TRANS.pdsprj
+   C:\Users\HP\Documents\BRUSHLESS.pdsprj
+   C:\Users\HP\Documents\New Project.pdsprj
+   C:\Users\HP\Documents\ARD POT LED.pdsprj
+   C:\Users\HP\Documents\TP3EA.pdsprj
